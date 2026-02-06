@@ -105,24 +105,24 @@ server/
 git clone https://github.com/your-username/task-tracker.git
 cd task-tracker
 
-2️⃣ Backend setup
+### 2️⃣ Backend setup
 
-cd server
-npm install
-npm run dev
+-cd server
+-npm install
+-npm run dev
 
-Create a .env file:
+## Create a .env file:
 
-MONGO_URI=your_mongodb_url
-JWT_SECRET=your_secret_key
+-MONGO_URI=your_mongodb_url
+-JWT_SECRET=your_secret_key
 
-3️⃣ Frontend setup
+### 3️⃣ Frontend setup
 
-cd client
-npm install
-npm run dev
+-cd client
+-npm install
+-npm run dev
 
-🎯 Purpose of the Project
+## 🎯 Purpose of the Project
 
 This project was built to:
 Practice real-world full-stack development
