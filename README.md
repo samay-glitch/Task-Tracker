@@ -101,19 +101,23 @@ server/
 ## 🧪 Run Locally
 
 ### 1️⃣ Clone the repository
+
 git clone https://github.com/your-username/task-tracker.git
 cd task-tracker
 
 2️⃣ Backend setup
+
 cd server
 npm install
 npm run dev
 
 Create a .env file:
+
 MONGO_URI=your_mongodb_url
 JWT_SECRET=your_secret_key
 
 3️⃣ Frontend setup
+
 cd client
 npm install
 npm run dev
