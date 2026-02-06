@@ -102,8 +102,8 @@ server/
 
 ### 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/task-tracker.git
-cd task-tracker
+-git clone https://github.com/your-username/task-tracker.git
+-cd task-tracker
 
 ### 2️⃣ Backend setup
 
